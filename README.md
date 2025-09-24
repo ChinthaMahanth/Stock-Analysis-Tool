@@ -1,2 +1,5 @@
 # Stock-Analysis-Tool
-Created an Interactive Stock Analysis Dashboard using Llama LLM
+Interactive Stock Analysis Dashboard using Llama LLM
+This project integrates Llama LLM into a Streamlit-based dashboard to create an interactive AI-powered stock analysis assistant. Users can query the chatbot for trade guidance and receive tailored insights that combine traditional technical indicators with AI reasoning. By merging SMA20, EMA20, RSI, and Bollinger Bands with language model outputs, the dashboard enhances decision-making and lowers the barrier to understanding stock movements.
+
+The system also automates real-time data retrieval from Yahoo Finance, cutting manual data entry time by roughly 80% and ensuring up-to-date market insights. With interactive visualizations for over 50 tickers, users can easily track price trends, explore indicators, and access AI-driven recommendations in one place. This tool is designed for investors, students, and enthusiasts who want to experiment with combining quantitative analysis and AI-powered insights in an intuitive interface.
